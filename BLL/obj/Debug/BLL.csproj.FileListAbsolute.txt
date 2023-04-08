@@ -1,0 +1,12 @@
+E:\Repositories\NewsCategory\BLL\bin\Debug\BLL.dll
+E:\Repositories\NewsCategory\BLL\bin\Debug\BLL.pdb
+E:\Repositories\NewsCategory\BLL\bin\Debug\DAL.dll
+E:\Repositories\NewsCategory\BLL\bin\Debug\EntityFramework.dll
+E:\Repositories\NewsCategory\BLL\bin\Debug\DAL.pdb
+E:\Repositories\NewsCategory\BLL\bin\Debug\DAL.dll.config
+E:\Repositories\NewsCategory\BLL\bin\Debug\EntityFramework.xml
+E:\Repositories\NewsCategory\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Repositories\NewsCategory\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Repositories\NewsCategory\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Repositories\NewsCategory\BLL\obj\Debug\BLL.dll
+E:\Repositories\NewsCategory\BLL\obj\Debug\BLL.pdb

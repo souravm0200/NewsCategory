@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsCategoryTask", "NewsCategoryTask\NewsCategoryTask.csproj", "{17F1CA71-D856-40CC-9053-03177EE875FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{7D5F2E1D-07A4-49E1-A352-4B0BC5E01248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{D813B4E2-B04B-4F51-8A29-3F77E433F80E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17F1CA71-D856-40CC-9053-03177EE875FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F1CA71-D856-40CC-9053-03177EE875FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F1CA71-D856-40CC-9053-03177EE875FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F1CA71-D856-40CC-9053-03177EE875FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5F2E1D-07A4-49E1-A352-4B0BC5E01248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5F2E1D-07A4-49E1-A352-4B0BC5E01248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5F2E1D-07A4-49E1-A352-4B0BC5E01248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5F2E1D-07A4-49E1-A352-4B0BC5E01248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D813B4E2-B04B-4F51-8A29-3F77E433F80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D813B4E2-B04B-4F51-8A29-3F77E433F80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D813B4E2-B04B-4F51-8A29-3F77E433F80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D813B4E2-B04B-4F51-8A29-3F77E433F80E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA09D18B-4401-48D1-99D2-E0C05021D97E}
+	EndGlobalSection
+EndGlobal

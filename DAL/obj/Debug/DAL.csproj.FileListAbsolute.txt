@@ -1,0 +1,14 @@
+E:\Repositories\NewsCategory\DAL\bin\Debug\DAL.dll.config
+E:\Repositories\NewsCategory\DAL\bin\Debug\DAL.dll
+E:\Repositories\NewsCategory\DAL\bin\Debug\DAL.pdb
+E:\Repositories\NewsCategory\DAL\bin\Debug\EntityFramework.dll
+E:\Repositories\NewsCategory\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Repositories\NewsCategory\DAL\bin\Debug\EntityFramework.xml
+E:\Repositories\NewsCategory\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Repositories\NewsCategory\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Repositories\NewsCategory\DAL\obj\Debug\DAL.Migrations.Init.resources
+E:\Repositories\NewsCategory\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\Repositories\NewsCategory\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Repositories\NewsCategory\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Repositories\NewsCategory\DAL\obj\Debug\DAL.dll
+E:\Repositories\NewsCategory\DAL\obj\Debug\DAL.pdb
