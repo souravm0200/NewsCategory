@@ -11,7 +11,7 @@ namespace NewsCategoryTask.Controllers
     public class NewsControllers : ApiController
     {
         [HttpGet]
-        [Route("api/News")]
+        [Route("api/news")]
         public HttpResponseMessage GetAllNews()
         {
             try

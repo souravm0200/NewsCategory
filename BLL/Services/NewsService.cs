@@ -23,7 +23,7 @@ namespace BLL.Services
             return data.Select(NewsConverter).ToList();
         }
 
-        private static NewsDTO NewsConverter(News data)
+        private static NewsDTO NewsConverter(DAL.Models.News data)
         {
             var news = new NewsDTO()
             {
@@ -37,9 +37,9 @@ namespace BLL.Services
             return news;
         }
 
-        private static News NewsConverter(NewsDTO data)
+        private static DAL.Models.News NewsConverter(NewsDTO data)
         {
-            var news = new News()
+            var news = new DAL.Models.News()
             {
                 Id = data.Id,
                 Title = data.Title,
