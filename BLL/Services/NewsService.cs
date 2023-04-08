@@ -50,13 +50,14 @@ namespace BLL.Services
             return news;
         }
 
-        private static CategoryDTO CategoryConverter(Category category)
+        private static CategoryDTO CategoryConverter(DAL.Models.Category category)
         {
             return new CategoryDTO()
             {
                 Id = category.Id,
                 Name = category.Name,
             };
+            
         }
     }
 }
